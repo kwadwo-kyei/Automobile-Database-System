@@ -1,6 +1,6 @@
 # Automobile-Database-System
 ## Overview: 
-The Boston automobile dealership has decided to offer customers extra services meant to make the lives of their customers easy. These services include car maintenance updates, car upgrade updates and custom insurance packages meant to fit and ensure the needs of each vehicle. In order to achieve this we have been requested to design and create a database that would help the automobile, update, retrieve and gain insights from their database.
+The purpose of this project is to create a database management system for a local automobile car dealership. This database system is meant to help the dealership provide extra services to its customers. These services include but are not limited to payment plans, car maintenance, car upgrades and custom car insurance packages. This database would allow the dealership navigate through its data in order to better provide these services to their customers, in addition they would be able to easily update, retrieve and gain insights from their data.
 
 ## Process
 * Create a database system for this automobile dealership to manage and track customers, inventory and staffs within the automobile dealership.
